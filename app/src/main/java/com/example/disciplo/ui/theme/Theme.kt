@@ -5,7 +5,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.Color
 import androidx.compose.material3.lightColorScheme
 
-// Cores principais
+
 private val Yellow = Color(0xFFFFC107) // Amarelo vibrante
 private val Black = Color(0xFF000000)  // Texto principal
 private val White = Color(0xFFFFFFFF)  // Fundo

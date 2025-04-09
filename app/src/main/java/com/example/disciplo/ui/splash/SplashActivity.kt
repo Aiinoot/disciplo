@@ -24,7 +24,7 @@ fun SplashActivity(navController: NavController) {
     LaunchedEffect(Unit) {
         delay(2000)
         navController.navigate(Routes.MenuActivity.route) {
-            popUpTo(0) // limpa o backstack
+            popUpTo(0)
         }
     }
 
